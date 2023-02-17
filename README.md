@@ -1,2 +1,2 @@
-# React-project
-my react project
+# Hotel-Reservation
+Hotel reservation app using react
