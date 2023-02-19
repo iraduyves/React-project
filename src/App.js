@@ -1,11 +1,9 @@
-import {
-  createBrowserRouter,
-  RouterProvider,
-  Route,
-} from "react-router-dom";
+import React from "react";
+import { createRoot } from "react-dom/client";
+import{BrowserRouter,Routes,Route} from "react-router-dom";
 import Home from "./pages/home/Home";
-import Hotel from "./pages/hotel/Hotel";
 import List from "./pages/list/List";
+//  
 
 
 
@@ -15,8 +13,8 @@ function App() {
     <BrowserRouter>
      <Routes>
       <Route path="/" element={<Home/>}/>
-      <Route path="/hotels" element={List}/>
-      <Route path="/hotels/:id" element={Hotel}/>
+      <Route path="/hotels" element={<List/>}/>
+      <Route path="/hotels/:id" element={<Hotel/>}/>
         
      </Routes>
     </BrowserRouter>
