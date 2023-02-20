@@ -20,5 +20,5 @@
 .headerListItem{
     display: flex;
     align-items: center;
-    gap: 11x;
+    gap: 11px;
 }
