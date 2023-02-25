@@ -51,8 +51,7 @@ const Header = ({type}) => {
           <h1 className="headerTitle">A Lifetime of discounts? It's Genius</h1>
          <p className="headerDesc">
           Get rewarded foryour travels-unlock instant savings of 10% or more 
-          with a free Ytech accountsssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
-
+          with a free Ytech accountssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
 
         </p>
         <button className="headerBtn">Sign in/Register</button>
