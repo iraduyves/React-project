@@ -4,7 +4,7 @@ import Header from "../../components/header/Header"
 import Featured from "../../components/featured/Featured"
 import List from "../list/List"
 import PropertyList from "../../components/propertyList/PropertyList"
-import FeaturedProperties from "../../featuredproperties/FeaturedProperties"
+import FeaturedProperties from "../../components/featuredproperties/FeaturedProperties"
 const Home = () => {
   return (
     <div>
