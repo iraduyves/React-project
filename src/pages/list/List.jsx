@@ -103,6 +103,6 @@ const List = () => {
   );
 };
 
-rrrrrrrrrrrrrrrr
+rrrrrrrrrrrrrrr
 
 export default List;
