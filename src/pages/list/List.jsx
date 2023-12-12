@@ -107,5 +107,3 @@ const List = () => {
 
 export default List;
 
-
-j
