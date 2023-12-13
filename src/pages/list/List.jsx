@@ -107,4 +107,4 @@ const List = () => {
 
 export default List;
 
-hjbiudsbuiiurgu
+hjbiudsbuiiurg
