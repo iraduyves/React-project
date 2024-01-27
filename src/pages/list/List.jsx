@@ -81,7 +81,7 @@ const List = () => {
                     className="lsOptionInput"
                     placeholder={options.room}
                   />
-                hjgh
+                hjg
                   </div>
               </div>
             </div>
