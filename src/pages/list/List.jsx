@@ -80,8 +80,7 @@ const List = () => {
                     min={1}
                     className="lsOptionInput"
                     placeholder={options.room}
-                  />    
-                  
+                  />       
                   </div>
               </div>
             </div>
