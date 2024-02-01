@@ -6,7 +6,6 @@ import { useState } from "react";
 import { format } from "date-fns";    
 import { DateRange } from "react-date-range";
 import SearchItem from "../../components/SearchItem/SearchItem";
-
 const List = () => {
   const location = useLocation();
   const [destination, setDestination] = useState(location.state.destination);
