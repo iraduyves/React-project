@@ -102,6 +102,6 @@ const List = () => {
     </div>
   );
 };
-kyyyyyy
+kyyyyy
 export default List;
 
