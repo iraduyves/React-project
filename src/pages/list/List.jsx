@@ -102,6 +102,6 @@ const List = () => {
     </div>
   );
 };
-kjbfkjrebkj
+kjbfkjrebk
 export default List;
 
